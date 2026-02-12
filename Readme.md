@@ -7,3 +7,7 @@ git log - used to track the history of git commands
 when we git init - local repository is created
 
 when we do manually create repo on github we have to combine local and remote repository totally. for that we use **git remote add origin link(from git)**
+
+**git branch -d branch-name **: used to delete the branch
+
+**git branch new-branch-name source-branch** : used to create the new branch from source branch
